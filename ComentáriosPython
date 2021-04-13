@@ -1,0 +1,49 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "name": "Untitled0.ipynb",
+      "provenance": [],
+      "authorship_tag": "ABX9TyONz56Z2xGxjk2OtLp7ZxSv",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/eduardo-gonzaga/Eduardo/blob/master/Coment%C3%A1riosPython\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "metadata": {
+        "id": "xuHr1eWOGHjT"
+      },
+      "source": [
+        "#groupby :agrupar dados de acordo com alguma referência ex: ID Loja\n",
+        "#sum() :soma os valores\n",
+        "#sort_value() :metodo \n",
+        "#Asceding=false :que algo sera de forma descendente\n",
+        "#display () :vizualizar os dados\n",
+        "#quantidade :uma variável\n",
+        "#.to_frame :vai estruturar uma nova coluna \n",
+        "#rename() : alteração de nomes"
+      ],
+      "execution_count": 1,
+      "outputs": []
+    }
+  ]
+}
